@@ -6,7 +6,7 @@ I'm a passionate and multi-skilled creator with a focus on blending **technology
 
 ## 🔭 I’m currently working on...
 - **Python-powered Apps** with colorful terminal UI, categories, and persistent storage.
-- Launching **several **,  YouTube channel using generative AI to tell money and success stories with engaging visuals.
+- Launching **several**,  YouTube channel using generative AI to tell money and success stories with engaging visuals.
 - Creating branded digital content for social media platforms, combining my skills in **video editing** and **visual design**.
 
 ## 🌱 I’m currently learning...
