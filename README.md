@@ -1,29 +1,59 @@
-# 👋 Hi there, I'm Tochukwu Ihejirika
+👋 Hi there, I'm Tochukwu Ihejirika
 
-I'm a passionate and multi-skilled creator with a focus on blending **technology**, **design**, and **media** to solve real-world problems.
+💻 Python Backend Developer | Full-Stack Enthusiast | API Builder
 
----
+I’m a developer who loves turning ideas into clean, scalable, and interactive digital products.
+From building powerful APIs to crafting beautiful web interfaces, I blend backend logic with frontend creativity to deliver full-circle web experiences.
 
-## 🔭 I’m currently working on...
-- **Python-powered Apps** with colorful terminal UI, categories, and persistent storage.
-- Launching **several**,  YouTube channel using generative AI to tell money and success stories with engaging visuals.
-- Creating branded digital content for social media platforms, combining my skills in **video editing** and **visual design**.
+🚀 What I Do
 
-## 🌱 I’m currently learning...
-- **Advanced Python** techniques for data handling and automation.
-- **Generative AI tools** for content creation (text, visuals, and video).
-- **Social media growth strategies** to build a strong online presence and monetize creativity.
+🐍 Build Python Apps — terminal tools, automation scripts, and full-stack projects.
+
+⚙️ Develop APIs — RESTful endpoints using FastAPI and Flask.
+
+🌐 Frontend Magic — crafting responsive, modern UIs with
+HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React, and Next.js.
 
 
-## 👯 I’m looking to collaborate on...
-- Python-based tools and automations (CLI, data apps, AI workflows)
-- YouTube/Instagram content design (editing, scripting, branding)
-- Social media projects that need **content strategy**, **visual identity**, or **community growth**
-- Startups looking for a **multi-skilled creative-tech contributor** who understands both backend code and front-facing design
+🧠 Integrate AI & Automation — using Python to connect APIs, handle data, and automate workflows.
 
----
+🧩 Tech Stack
 
-## ⚡ Fun fact:
-I enjoy building digital tools that **look good**, **work well**, and **connect people.**
+Languages: Python, JavaScript, HTML, CSS
+Frameworks & Libraries: FastAPI, Flask, React, Next.js, Tailwind CSS, Bootstrap
+Tools: Git, GitHub, VS Code, Postman, Render, Vercel
+Databases: SQLite, PostgreSQL, MySQL
 
-Let's build something awesome together 🚀
+🔭 Current Projects
+
+🧰 Building CLI-based Python apps with persistent storage.
+
+🌍 Developing REST APIs that power learning platforms and productivity tools.
+
+⚡ Exploring Next.js and React hooks for dynamic frontend experiences.
+
+🌱 I’m Currently Learning
+
+Advanced Python for API architecture and async programming.
+
+Modern React & Next.js for optimized, scalable web apps.
+
+System design and deployment with cloud tools.
+
+## 🌐 Connect with me  
+[LinkedIn]([https://www.linkedin.com/in/your-linkedin-username)
+](https://www.linkedin.com/in/tochukwu-ihejirika-daniel-902a51203/)
+
+🤝 Let’s Collaborate
+
+I’m open to collaborating on:
+
+Python projects (APIs, automations, or backend systems)
+
+Full-stack apps with modern frontend frameworks
+
+Open-source contributions and developer-focused tools
+
+⚡ Fun Fact
+
+I love clean code, sleek UIs, and meaningful products that make technology feel human.
