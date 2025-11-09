@@ -100,7 +100,7 @@ I believe great code should be clean, beautiful, and make technology feel easy a
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ihejirikatochukwudaniel&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ---
