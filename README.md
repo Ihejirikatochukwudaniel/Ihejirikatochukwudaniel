@@ -1,59 +1,108 @@
-👋 Hi there, I'm Tochukwu Ihejirika
+# Hi there, I'm Tochukwu! 👋
 
-💻 Python Backend Developer | Full-Stack Enthusiast | API Builder
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-I’m a developer who loves turning ideas into clean, scalable, and interactive digital products.
-From building powerful APIs to crafting beautiful web interfaces, I blend backend logic with frontend creativity to deliver full-circle web experiences.
+## 💻 Python Backend Developer | Full-Stack Builder | API Creator
 
-🚀 What I Do
+I love building things with code! I make apps that work smoothly, create APIs that connect different parts of the web, and design interfaces that look great and are easy to use.
 
-🐍 Build Python Apps — terminal tools, automation scripts, and full-stack projects.
+---
 
-⚙️ Develop APIs — RESTful endpoints using FastAPI and Flask.
+## 🚀 What I Do
 
-🌐 Frontend Magic — crafting responsive, modern UIs with
-HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React, and Next.js.
+✨ **Build Python Apps** — I create tools that run in your terminal, automate boring tasks, and build complete web projects
 
+🔌 **Create APIs** — I build the behind-the-scenes systems that make apps talk to each other using FastAPI and Flask
 
-🧠 Integrate AI & Automation — using Python to connect APIs, handle data, and automate workflows.
+🎨 **Design Frontends** — I make websites that look good on any device using modern tools
 
-🧩 Tech Stack
+🤖 **Work with AI & Automation** — I use Python to connect different services, handle data, and make things happen automatically
 
-Languages: Python, JavaScript, HTML, CSS
-Frameworks & Libraries: FastAPI, Flask, React, Next.js, Tailwind CSS, Bootstrap
-Tools: Git, GitHub, VS Code, Postman, Render, Vercel
-Databases: SQLite, PostgreSQL, MySQL
+---
 
-🔭 Current Projects
+## 🛠️ My Tech Tools
 
-🧰 Building CLI-based Python apps with persistent storage.
+**Languages I Use:**
 
-🌍 Developing REST APIs that power learning platforms and productivity tools.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-⚡ Exploring Next.js and React hooks for dynamic frontend experiences.
+**Frameworks & Libraries:**
 
-🌱 I’m Currently Learning
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
-Advanced Python for API architecture and async programming.
+**Tools I Use Daily:**
 
-Modern React & Next.js for optimized, scalable web apps.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-System design and deployment with cloud tools.
+**Databases:**
 
-## 🌐 Connect with me  
-[LinkedIn]([https://www.linkedin.com/in/your-linkedin-username)
-](https://www.linkedin.com/in/tochukwu-ihejirika-daniel-902a51203/)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-🤝 Let’s Collaborate
+---
 
-I’m open to collaborating on:
+## 🔭 What I'm Building Right Now
 
-Python projects (APIs, automations, or backend systems)
+🧰 **CLI Python Apps** — Building command-line tools that remember your data
 
-Full-stack apps with modern frontend frameworks
+🌍 **REST APIs** — Creating systems that power learning platforms and productivity apps
 
-Open-source contributions and developer-focused tools
+⚡ **Modern Web Apps** — Using Next.js and React to build fast, dynamic websites
 
-⚡ Fun Fact
+---
 
-I love clean code, sleek UIs, and meaningful products that make technology feel human.
+## 🌱 What I'm Learning
+
+📚 Better ways to build APIs with Python (async programming and clean architecture)
+
+⚛️ Advanced React & Next.js for building faster, smarter web apps
+
+☁️ How to deploy and scale apps using cloud services
+
+---
+
+## 🤝 Let's Work Together!
+
+I'd love to collaborate on:
+
+- 🐍 Python projects (APIs, automation tools, or backend systems)
+- 🌐 Full-stack apps with modern frameworks
+- 💡 Open-source projects and developer tools
+
+---
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tochukwu-ihejirika-daniel-902a51203/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+---
+
+## ⚡ Fun Fact
+
+I believe great code should be clean, beautiful, and make technology feel easy and human! 
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
+
+---
+
+💡 *"Building the web, one line of code at a time"*
